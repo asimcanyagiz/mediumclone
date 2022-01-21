@@ -4,7 +4,7 @@
 [Course Link](https://app.patika.dev/moduller/bootstrap)
 ```
 Patika.dev platforms bootstrap course homework.
-Instagram'ın arayüzünü tasarlama.
+Medium'un arayüzünü tasarlama.
 ```
 ```
 * HTML
