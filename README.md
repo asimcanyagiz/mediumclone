@@ -1,10 +1,12 @@
+![My project-11](https://user-images.githubusercontent.com/89473605/174805820-5caec97b-0006-43c1-a6ad-292f19debd30.png)
+
 # mediumclone
  
 # Patika Bootstrap Homework
 [Course Link](https://app.patika.dev/moduller/bootstrap)
 ```
 Patika.dev platforms bootstrap course homework.
-Instagram'ın arayüzünü tasarlama.
+Medium'un arayüzünü tasarlama.
 ```
 ```
 * HTML
